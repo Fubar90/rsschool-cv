@@ -14,10 +14,12 @@ e-mail: dmatelenak@gmail.com
 ___
 
 ## About Me:
+
 I am responsible, always involved in the tasks entrusted to me. Thanks to my communicativeness, I feel great when working with my partners and clients. I am actively learning programming. I started my studies at **RS School - JS / FRONT-END.** It gives satisfaction.
 ___
 
 ## Education:
+
 **1. University of Gdańsk**
 * Faculty:Economy
 
@@ -31,6 +33,7 @@ ___
 ___
 
 ## Skils:
+
 HTML
 
 CSS
