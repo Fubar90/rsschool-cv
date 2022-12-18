@@ -1,1 +1,1 @@
-https://Fubar90.github.io/rsschool-cv/
+https://Fubar90.github.io/rsschool-cv/cv
